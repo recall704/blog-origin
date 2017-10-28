@@ -1,0 +1,48 @@
+baseURL = "http://www.recall704.com/"
+languageCode = "zh-cn"
+title = "RECALL's Blog"
+
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+
+
+[[menu.main]]
+    name = "home"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "tags"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "tags"
+    url = "/tags/"
+
+[[menu.main]]
+    name = "categories"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/categories/"
+
+
+[[menu.main]]
+    name = "series"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -80
+    url = "/series/"
+
+[[menu.main]]
+    name = "about"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -60
+    url = "/about/"
