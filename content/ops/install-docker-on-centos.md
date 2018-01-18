@@ -5,6 +5,7 @@ tags: ['centos', 'docker', "install"]
 categories: 运维
 series: ops
 type: post
+toc: true
 ---
 
 

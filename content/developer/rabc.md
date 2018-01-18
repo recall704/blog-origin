@@ -5,6 +5,7 @@ categories: 开发
 tags: ["rabc","permission","权限"]
 type: post
 slug: permission-rbac-and-objectpermission
+toc: true
 ---
 
 

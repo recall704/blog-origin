@@ -5,6 +5,7 @@ tags: ["docker", "registry"]
 categories: 云计算
 slug: deploy-docker-registry-with-basic-authentication
 type: post
+toc: true
 ---
 
 

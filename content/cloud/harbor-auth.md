@@ -5,6 +5,7 @@ tags: ["docker", "harbor", "authenticate"]
 categories: 云计算
 slug: harbor-authenticate.md
 type: post
+toc: true
 ---
 
 

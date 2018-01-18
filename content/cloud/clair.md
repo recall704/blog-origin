@@ -1,10 +1,11 @@
 ---
-title: "Clair 源码简要分析"
+title: "Clair 源码简要分析（未完待续）"
 date: 2017-12-20T20:24:42+08:00
 tags: ["scan", "clair", "容器", "镜像"]
 categories: 云计算
 slug: clair
 type: post
+toc: true
 ---
 
 
@@ -93,6 +94,3 @@ func processLayers(datastore database.Datastore, imageFormat string, requests []
 	return completeLayers, nil
 }
 ```
-
-![k8s_schedule](k8s_schedule.jpg)
-

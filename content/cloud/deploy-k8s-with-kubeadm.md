@@ -5,6 +5,7 @@ tags: ["kubernetes","deploy", "kubeadm"]
 categories: 云计算
 slug: deploy-k8s-with-kubeadm
 type: post
+toc: true
 ---
 
 ## 一、环境准备
